@@ -1,0 +1,23 @@
+{
+  "badgeTooltip": {
+    "message": "1 bitcoin vaut $1 aujourd'hui",
+    "description": "Texte qui apparaît lorsque la souris survole le bouton de l'extension dans la barre d'outils du navigateur."
+  },
+
+  "extensionDescription": {
+    "message": "un outils simple de suivi du prix du bitscoin, propulsé par Blockchain.info.",
+    "description": "Description de l'extension."
+  },
+  
+  "optionsHeader": {
+    "message": "Options"
+  },
+
+  "optionCurrency": {
+    "message": "Devise:"
+  },
+
+  "optionCurrencyDesc": {
+    "message": "Afficher le prix actuel duBitcoin  dans la devise sélectionnée"
+  }
+}
